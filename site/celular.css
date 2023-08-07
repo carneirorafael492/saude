@@ -1,0 +1,190 @@
+*
+
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    background-color: #F1F1F1;
+}
+
+header
+{
+    background-color: #2152FF;
+    
+    padding: 20px; 
+    margin: 0px;
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    display:flow-root;
+    text-align: right;
+    padding: 0.1px;
+    color: #FFFFFF;
+}
+
+#banner img
+{
+    width: 100%;
+}
+
+h2
+{
+    color: #2152FF;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p
+{
+    font-size: 16px;
+    line-height: 20px;
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+a
+{
+    margin-left: 25px;
+    border-radius: 20px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    background-color: #2152FF;
+    color: #FFFFFF;
+}
+
+.card-saude
+{
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartoes-saude
+{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 12px;
+    border-radius: 40px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    margin-left: 100px;
+    width: 200px;
+    height: 100px;
+}
+
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer
+{
+    background-color: #2152FF;
+    text-align: center;
+    padding: 0.1px;
+    color: #FFFFFF;
+}
+
+
+@media(min-width:1280px)
+
+{
+*
+
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    background-color: #F1F1F1;
+}
+
+header
+{
+    background-color: #2152FF;
+    
+    padding: 20px; 
+    margin: 0px;
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    display:flow-root;
+    text-align: right;
+    padding: 0.1px;
+    color: #FFFFFF;
+}
+
+#banner img
+{
+    width: 100%;
+}
+
+h2
+{
+    color: #2152FF;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p
+{
+    font-size: 16px;
+    line-height: 20px;
+    margin: 8px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+}
+
+a
+{
+    margin-left: 25px;
+    border-radius: 20px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    background-color: #2152FF;
+    color: #FFFFFF;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.card-saude
+{
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+}
+
+.cartoes-saude
+{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 12px;
+    border-radius: 40px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    margin-left: 100px;
+}
+
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer
+{
+    background-color: #2152FF;
+    text-align: center;
+    padding: 0.1px;
+    color: #FFFFFF;
+}
+
+}
